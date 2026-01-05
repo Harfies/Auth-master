@@ -1,0 +1,5 @@
+{
+  "name": "AuthMaster: Full-Stack Authentication Hub",
+  "description": "A comprehensive React application that serves as both a functional authentication demo and an educational guide for implementing JWT, password hashing, and protected routes in a Node.js/Express/MongoDB environment.",
+  "requestFramePermissions": []
+}
